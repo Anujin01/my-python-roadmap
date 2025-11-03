@@ -11,11 +11,17 @@ a = float(input("Please enter your number (a): "))
 b = float(input("Please enter your number (b): "))
 operator = input("Please choose your operating tool(*,+,-,/): ")
 
+
 if operator == "*":
-    print(a * b)
-if operator == "+":
-    print(a+b)
-if operator == "-":
-    print(a-b)
-if operator == "/":
-    print(a/b)
+    result = a * b
+    print(round(result, 3))
+elif operator == "+":
+    result = a + b
+    print(round(result, 3))
+elif operator == "-":
+    result = a - b
+    print(round(result, 3))
+elif operator == "/":
+    result = a / b
+    print(round(result, 3))
+
