@@ -11,7 +11,7 @@ isdigit() |	Checks if all characters are digits |	123.isdigit()	| True
 isalnum() |	Checks if all are letters or digits(no spaces/symbols) | abc123.isalnum()	| True
 isspace()	| Checks if string only has spaces	" " | .isspace()	| True
 startswith(substring) |	Checks if string begins with something	| Python.startswith("Py") |	True
-endswith(substring) |	Checks if string ends with something | "Python".endswith("on") |	True
+endswith(substring) |	Checks if string ends with something | Python.endswith("on") |	True
 strip() |	Removes spaces (or symbols) from the start and end	| "  hello  ".strip()	| "hello"
-split()	| Splits a string into a list (by space or symbol) |	"a,b,c".split(",")	| ["a", "b", "c"]
+split()	| Splits a string into a list (by space or symbol) |	a,b,c.split(",")	| ["a", "b", "c"]
 join(list) |	Joins a list into one string	| " ".join(["hi", "there"])|	"hi there"
