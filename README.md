@@ -9,3 +9,4 @@ In this repository I'll document all my hardworks
 | 04  | Intro to Python    | Python String Basics              | [day4](day4_python_string.md) |
 | 05  | Intro to Python    | Compound Interest Calculator      | [day5](day5_compund_interest_calculator.py) |
 | 06  | Intro to Python    | Using "while" and "for" loops     | [day6](day6_countdown.py)
+| 07  | Intro to Python    | How to use different parenthesis     | [day7](day7_collection.md )
