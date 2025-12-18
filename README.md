@@ -10,3 +10,4 @@ In this repository I'll document all my hardworks
 | 05  | Intro to Python    | Compound Interest Calculator      | [day5](day5_compund_interest_calculator.py) |
 | 06  | Intro to Python    | Using "while" and "for" loops     | [day6](day6_countdown.py)
 | 07  | Intro to Python    | How to use different parenthesis     | [day7](day7_collection.md )
+| 08  | Intro to Python    | Using "list" to build shopping cart    | [day8](day8_cart.py)
